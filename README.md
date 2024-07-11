@@ -1,3 +1,10 @@
+## I have added a custom page for signIn and signUp too if in any case we need to access the Kinde pages then that is available in the / page itself and the custom pages can be accessed at the /auth page
+
+## Here are some additional resources=>
+
+[How to make custom pages](https://docs.kinde.com/authenticate/custom-configurations/custom-authentication-pages/)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
